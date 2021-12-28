@@ -1,9 +1,8 @@
+<div align = "center">
 <img align="right" alt="GIF" src="https://github.com/Rathang1/Rathang1/blob/main/canvas.png" />
+</div>
 <br />
 <br />
-
-
-
 <h2>Welcome to my Github Account</h2>
 <br />
 <h3 align="left">Languages and Tools:</h3>
