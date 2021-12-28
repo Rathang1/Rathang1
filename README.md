@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Rathang Rajpal</h1>
 <img align="right" alt="GIF" src="https://github.com/Rathang1/Rathang1/blob/main/canvas.png" />
 <p align="left">
 </p>
