@@ -1,6 +1,6 @@
 <div align = "center">
 <img align="right" alt="GIF" src="https://github.com/Rathang1/Rathang1/blob/main/canvas.png" />
-  <h1><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></h1>
+  <h1>:wave:</h1>
 </div>
 <br />
 <br />
