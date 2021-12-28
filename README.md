@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rathang Rajpal</h1>
-<p align="left">
+<p align="center">
 </p>
 </br>
 </br>
