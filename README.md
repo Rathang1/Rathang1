@@ -4,7 +4,7 @@
   
 
 ### <div align="center">A Masters In Computer Science student at the University of Texas at Dallas 🚀</div>
-### <div align="center">Welcome to my github account</div>
+### <div align="center">Welcome to my github account!</div>
 
 <!-- <div align = "center">
 <img align="right" alt="GIF" src="https://github.com/Rathang1/Rathang1/blob/main/canvas.png" />
