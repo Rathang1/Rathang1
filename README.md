@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rathang Rajpal</h1>
+<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/Rathang1/Rathang1/blob/main/canvas.png" />
 <p align="left">
 </p>
 </br>
