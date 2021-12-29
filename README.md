@@ -8,7 +8,7 @@
 
 
 ### <div>About me:</div>
-### <div>A Software Developer</div>
+### <divA passionate Software Developer and an avid learner of all things tech, I love to build exceptional websites, intelligent systems, and everything in between 🚀</div>
 <!-- <div align = "center">
 <img align="right" alt="GIF" src="https://github.com/Rathang1/Rathang1/blob/main/canvas.png" />
 </div>
