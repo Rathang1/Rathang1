@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">A Masters In Computer Science student at the University of Texas at Dallas 🚀</div>
+### <div align="center">Masters In Computer Science at the University of Texas at Dallas 🚀</div>
 ### <div align="center">Welcome to my github account!</div>
 
 
